@@ -1,0 +1,44 @@
+{
+    "usuarios": [
+        {
+            "id": 1,
+            "nome": "Zephr Reis",
+            "email": "porttitor.scelerisque@google.com",
+            "senha": "pulvinar",
+            "telefone": "(64) 945401609",
+            "cidade": "Abaetetuba"
+        },
+        {
+            "id": 2,
+            "nome": "Walter da Costa",
+            "email": "enim@outlook.com",
+            "senha": "scelerisque",
+            "telefone": "(82) 139769735",
+            "cidade": "São Luís"
+        },
+        {
+            "id": 3,
+            "nome": "Samuel Inacio",
+            "email": "gravida@icloud.com",
+            "senha": "Proin",
+            "telefone": "(82) 357814816",
+            "cidade": "Parauapebas"
+        },
+        {
+            "id": 4,
+            "nome": "Sybill Morais",
+            "email": "risus@hotmail.com",
+            "senha": "velit",
+            "telefone": "(25) 436271451",
+            "cidade": "Açailândia"
+        },
+        {
+            "id": 5,
+            "nome": "Paul Sales",
+            "email": "in.nec@icloud.com",
+            "senha": "vel",
+            "telefone": "(22) 618112211",
+            "cidade": "Caucaia"
+        }
+    ]
+}
